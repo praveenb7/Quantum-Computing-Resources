@@ -1,6 +1,6 @@
 # Quantum Computing Resources
 
-Firstly, [quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
+[Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
 
 ## CONTENTS
