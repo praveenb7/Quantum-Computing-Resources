@@ -5,6 +5,7 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 
 ## CONTENTS
 - [What is Quantum Computing? How can it help us?](#What-is-Quantum-Computing?-How-can-it-help-us?)
+- Lot more resources coming soon
 
 ## What is Quantum Computing? How can it help us?
 
