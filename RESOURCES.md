@@ -7,7 +7,7 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 ## CONTENTS
 - [What is Quantum Computing? How can it help us?](#What-is-Quantum-Computing?-How-can-it-help-us?)
 - [Superposition, Engtanglement(Wierd phenomanas of nature)](#Superposition,-Engtanglement(Wierd-phenomanas-of-nature))
-- Lot more resources coming soon
+- Lot more resources to be added soon
 
 ## What is Quantum Computing? How can it help us?
 
