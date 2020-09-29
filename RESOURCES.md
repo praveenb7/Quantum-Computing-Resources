@@ -25,3 +25,10 @@ Articles :
 
 ## Superposition, Engtanglement(Wierd phenomanas of nature)
 
+Videos :
+
+- [Schrödinger's cat experiment - Understanding superposition](https://www.youtube.com/watch?v=UjaAxUO6-Uw)
+- [What does Schrödinger's Cat explain to us?](https://www.youtube.com/watch?v=67MG6_N0msg)
+- [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
+- [Understanding Quantum Mechanics - Superposition and Entanglement](https://www.youtube.com/watch?v=j6Mw3_tOcNI)
+
