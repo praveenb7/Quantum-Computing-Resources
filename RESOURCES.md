@@ -1,5 +1,7 @@
 # Quantum Computing Resources
 
+[<img src = "images/quantum-computer.jpg" height = "300" width = "550">]
+
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
 It is highly recommended to learn in the given order if you are a beginner. You can skip reading the articles. Watching videos alone is more than enough to gain basic intuition.
