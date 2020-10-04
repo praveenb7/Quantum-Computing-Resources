@@ -9,7 +9,7 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 ## CONTENTS
 - [What is Quantum Computing? How can it help us?](#What-is-Quantum-Computing?-How-can-it-help-us?)
 - [Superposition, Engtanglement(Weird phenomanas of nature)](#Superposition,-Engtanglement(Weird-phenomanas-of-nature))
-- Lot more resources to be added soon
+- [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon....)
 
 ## What is Quantum Computing? How can it help us?
 
@@ -34,4 +34,4 @@ Videos :
 - [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
 - [Understanding Quantum Mechanics - Superposition and Entanglement](https://www.youtube.com/watch?v=j6Mw3_tOcNI)
 
-## Lot More Resources Coming Soon
+## Lot more resources will be updated soon....
