@@ -1,6 +1,6 @@
 # Quantum Computing Resources
 
-[<img src = "images/quantum-computer.jpg" height = "300" width = "550">]
+<img src = "images/quantum-computer.jpg" height = "300" width = "550">
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
@@ -34,3 +34,4 @@ Videos :
 - [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
 - [Understanding Quantum Mechanics - Superposition and Entanglement](https://www.youtube.com/watch?v=j6Mw3_tOcNI)
 
+## Lot More Resources Coming Soon
