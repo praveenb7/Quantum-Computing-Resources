@@ -7,11 +7,11 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 It is highly recommended to learn in the given order if you are a beginner. You can skip reading the articles. Watching videos alone is more than enough to gain basic intuition.
 
 ## CONTENTS
-- [What is Quantum Computing? How can it help us?](#What-is-Quantum-Computing?-How-can-it-help-us?)
-- [Superposition, Engtanglement(Weird phenomanas of nature)](#Superposition,-Engtanglement(Weird-phenomanas-of-nature))
+- [Getting Started](#Getting-Started)
+- [Getting started with Quantum mechanics](#Getting-started-with-Quantum-mechanics)
 - [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon....)
 
-## What is Quantum Computing? How can it help us?
+## Getting Started
 
 Videos :
 
@@ -25,7 +25,7 @@ Articles :
 - [What is Quantum Computing?](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/)
 - [What is Quantum Computing and how does it work?](https://builtin.com/hardware/quantum-computing)
 
-## Superposition, Engtanglement(Weird phenomanas of nature)
+## Getting started with Quantum mechanics
 
 Videos :
 
