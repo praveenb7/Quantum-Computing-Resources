@@ -10,7 +10,9 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Getting Started](#Getting-Started)
 - [Getting started with Quantum Mechanics](#Getting-started-with-Quantum-Mechanics)
 - [Mathematics for Quantum Computing](#Mathematics-for-Quantum-Computing)
+- [Best Youtube Channels & Playlists for Quantum Computing](#Best-Youtube-Channels-&-Playlsits-for-Quantum-Computing)
 - [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon)
+
 
 ## Getting Started
 
@@ -39,10 +41,30 @@ Videos :
 
 Videos :
 
+- [The Mathematics of Quantum Computers](https://www.youtube.com/watch?v=IrbJYsep45E)
 - [Linear Algebra playlist by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Calculus playlist by 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Probability playlist by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 
+
+## Best Youtube Channels & Playlists for Quantum Computing
+
+Channels :
+
+- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
+- [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
+- [Cambridge Quantum Computing](https://www.youtube.com/channel/UCbTsY6YQgyedZSfUL_omKMA)
+- [Institute for Quantum Computing](https://www.youtube.com/user/QuantumIQC)
+
+
+Playlists :
+
+- [Coding with Qiskit](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+- [Quantum Mechanics & Quantum Computation - Umesh Vazirani - Coursera 2012](https://www.youtube.com/watch?v=VPsl_5RQe1A&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG)
+- [Quantum Computer Programming w/ Qiskit](https://www.youtube.com/watch?v=aPCZcv-5qfA&list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
+- [TensorFlow QuantumCasts](https://www.youtube.com/watch?v=hpHfzYTOMGI&list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)
+- [Quantum Computing Concepts](https://www.youtube.com/watch?v=sjINVV2xOow&list=PLHSIfioizVW2uC27IFkHlSc-NgvZjBliZ)
+- [The Quantum Around You - With Andrea Morello](https://www.youtube.com/watch?v=Od3Ol98VvrE&list=PL50XnIfJxPDV3h3Rv3yPAbPPmbZOB7IGz)
 
 
 ## Lot more resources will be updated soon
