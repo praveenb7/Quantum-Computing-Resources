@@ -10,7 +10,7 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Getting Started](#Getting-Started)
 - [Getting started with Quantum Mechanics](#Getting-started-with-Quantum-Mechanics)
 - [Mathematics for Quantum Computing](#Mathematics-for-Quantum-Computing)
-- [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon....)
+- [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon)
 
 ## Getting Started
 
@@ -45,4 +45,4 @@ Videos :
 
 
 
-## Lot more resources will be updated soon....
+## Lot more resources will be updated soon
