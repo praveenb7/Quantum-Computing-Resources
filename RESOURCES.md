@@ -10,7 +10,7 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Getting Started](#Getting-Started)
 - [Getting started with Quantum Mechanics](#Getting-started-with-Quantum-Mechanics)
 - [Mathematics for Quantum Computing](#Mathematics-for-Quantum-Computing)
-- [Best Youtube Channels and Playlists for Quantum Computing](#Best-Youtube-Channels-and-Playlsits-for-Quantum-Computing)
+- [Best Youtube Channels & Playlists for Quantum Computing](#best-youtube-channels-&-playlists-for-quantum-computing)
 - [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon)
 
 
@@ -47,7 +47,7 @@ Videos :
 - [Probability playlist by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
 
 
-## Best Youtube Channels and Playlists for Quantum Computing
+## Best Youtube Channels & Playlists for Quantum Computing
 
 Channels :
 
