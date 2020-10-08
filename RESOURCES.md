@@ -1,6 +1,6 @@
 # Quantum Computing Resources
 
-<img src = "images/quantum-computer.jpg" height = "300" width = "550">
+<img src = "images/quantum-computer.jpg" height = "450" width = "850">
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
@@ -8,7 +8,8 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 
 ## CONTENTS
 - [Getting Started](#Getting-Started)
-- [Getting started with Quantum mechanics](#Getting-started-with-Quantum-mechanics)
+- [Getting started with Quantum Mechanics](#Getting-started-with-Quantum-Mechanics)
+- [Mathematics for Quantum Computing](#Mathematics-for-Quantum-Computing)
 - [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon....)
 
 ## Getting Started
@@ -25,7 +26,7 @@ Articles :
 - [What is Quantum Computing?](https://www.technologyreview.com/2019/01/29/66141/what-is-quantum-computing/)
 - [What is Quantum Computing and how does it work?](https://builtin.com/hardware/quantum-computing)
 
-## Getting started with Quantum mechanics
+## Getting started with Quantum Mechanics
 
 Videos :
 
@@ -33,5 +34,15 @@ Videos :
 - [What does Schrödinger's Cat explain to us?](https://www.youtube.com/watch?v=67MG6_N0msg)
 - [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
 - [Understanding Quantum Mechanics - Superposition and Entanglement](https://www.youtube.com/watch?v=j6Mw3_tOcNI)
+
+## Mathematics for Quantum Computing
+
+Videos :
+
+- [Linear Algebra playlist by 3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Calculus playlist by 3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+- [Probability playlist by Khan Academy](https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19)
+
+
 
 ## Lot more resources will be updated soon....
