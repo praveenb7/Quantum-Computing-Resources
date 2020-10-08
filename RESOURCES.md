@@ -7,14 +7,14 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 It is highly recommended to learn in the given order if you are a beginner. You can skip reading the articles. Watching videos alone is more than enough to gain basic intuition.
 
 ## CONTENTS
-- [Getting Started](#Getting-Started)
-- [Getting started with Quantum Mechanics](#Getting-started-with-Quantum-Mechanics)
-- [Mathematics for Quantum Computing](#Mathematics-for-Quantum-Computing)
-- [Best Youtube Channels & Playlists for Quantum Computing](#best-youtube-channels-&-playlists-for-quantum-computing)
-- [Lot more resources to be added soon](#Lot-more-resources-will-be-updated-soon)
+- [Introduction](#introduction)
+- [Getting started with Quantum Mechanics](#getting-started-with-quantum-mechanics)
+- [Mathematics for Quantum Computing](#mathematics-for-quantum-computing)
+- [Best Youtube Channels & Playlists for Quantum Computing](#best-youtube-channels--playlists-for-quantum-computing)
+- [Lot more resources to be added soon](#lot-more-resources-will-be-updated-soon)
 
 
-## Getting Started
+## Introduction
 
 Videos :
 
