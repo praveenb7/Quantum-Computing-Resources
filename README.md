@@ -13,6 +13,7 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Best Youtube Channels & Playlists for Quantum Computing](#best-youtube-channels--playlists-for-quantum-computing)
 - [Quantum Computing Tools](#quantum-computing-tools)
 - [Quantum Computing Books](#quantum-computing-books)
+- [Quantum Computing Community](#quantum-computing-community)
 - [Lot more resources to be added soon](#lot-more-resources-will-be-updated-soon)
 
 
@@ -94,7 +95,6 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Qurry](https://github.com/LSaldyt/Qurry) - Quantum probabilistic programming language based on functional and probabilistic paradigms.
 - [QuTiP](http://qutip.org/docs/latest/index.html) - Quantum toolbox in Python for simulating dynamics of open quantum systems.
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
-- [Strangeworks Platform](https://quantumcomputing.com/) - A hardware agnostic platform and interface allowing for focus on development rather than specific hardware solution building.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
 
@@ -115,6 +115,23 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 - [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf) - Comprehensive textbook for those with some prior knowledge in mathematics, computer science and physics.
 - [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213) - A hands on introduction into quantum computing that explains the foundations of quantum computing to the mathematics behind quantum systems.
 
+
+## Quantum Computing Community
+
+- [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
+- [IBM Q Community](https://community.qiskit.org/) - IBM Q Community page with list of upcoming events and latest programs.
+- [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
+- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information. 
+- [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
+- [Quantum Computing India](https://discord.gg/X8v6axa) - Discord Server for quantum computing related discussions.
+- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
+- [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
+- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
+- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
+- [Quantum Universe](https://t.me/QuantumU) - Telegram Group for latest research papers, news, job postings related to quantum computing.
+- [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
+- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
+- [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
 
 
 ## Lot more resources will be updated soon
