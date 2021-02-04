@@ -54,10 +54,14 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 
 **Channels**
 
-- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
 - [Anastasia Marchenkova](https://www.youtube.com/channel/UCzaYH6WeohiHKj3Ih_GdZdQ)
 - [Cambridge Quantum Computing](https://www.youtube.com/channel/UCbTsY6YQgyedZSfUL_omKMA)
+- [D-Wave Systems](https://www.youtube.com/user/dwavesystems)
 - [Institute for Quantum Computing](https://www.youtube.com/user/QuantumIQC)
+- [Qiskit](https://www.youtube.com/channel/UClBNq7mCMf5xm8baE_VMl3A)
+- [Quantum Computing](https://www.youtube.com/channel/UCxviAzujSpcNtJRiaXI_cFg)
+- [Quantum Computing India](https://www.youtube.com/channel/UC8ERgELZAqTFR5-aF7fLpBA)
+- [Zapata Computing](https://www.youtube.com/c/ZapataComputing)
 
 
 **Playlists**
