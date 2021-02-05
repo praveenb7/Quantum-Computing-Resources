@@ -4,7 +4,6 @@
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing) is the use of quantum phenomena such as superposition and entanglement to perform computation.
 It is a field that will revolutionise the world. Quantum compuing can be used for special kinds of problems that cannot be solved by the classical computers.
-It is highly recommended to learn in the given order if you are a beginner. You can skip reading the articles. Watching videos alone is more than enough to gain basic intuition.
 
 ## CONTENTS
 - [Introduction](#introduction)
@@ -123,15 +122,15 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 
 **Slack**
 
-- [IBM Q Qiskit Community](https://qiskit.slack.com/) - Slack Channel for Qiskit and quantum computing discussions.
-- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/) - Slack channels for discussion of quantum computing.
-- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA) - Slack Channel for Rigetti and quantum computing discussions.
-- [Strawberry Fields Community](https://u.strawberryfields.ai/slack) - Slack channel for Xanadu and Strawberry Fields photonic/CV quantum computing discussions.
+- [IBM Q Qiskit Community](https://qiskit.slack.com/)
+- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/)
+- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA)
+- [Strawberry Fields Community](https://u.strawberryfields.ai/slack)
 
 **Discord**
 
-- [Quantum Computing India](https://discord.gg/X8v6axa) - Discord Server for quantum computing related discussions.
-- [IndiQ](https://discord.gg/e2VhETGBVQ) - Discord Server for quantum computing related discussions.
+- [IndiQ](https://discord.gg/e2VhETGBVQ)
+- [Quantum Computing India](https://discord.gg/X8v6axa)
 
 **Meetups**
 - [List of all qc meetup groups](https://www.meetup.com/topics/quantumcomputing/all/)
@@ -139,25 +138,27 @@ It is highly recommended to learn in the given order if you are a beginner. You 
 
 **Telegram**
 
-- [Quantum Universe](https://t.me/QuantumU) - Telegram Channel for latest research papers, news, job postings related to quantum computing.
-- [Quantum Computing](https://t.me/quantumcomputingBR) - Telegram Group for discussion related to quantum computing.
+- [Everything Quantum](https://t.me/everythingquantum)
+- [Quantum Computing](https://t.me/quantumcomputingBR)
+- [Quantum Universe](https://t.me/QuantumU)
+
 
 **Reddit**
-- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - Discussion about the book Quantum Computation and Quantum Information.
-- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/) - Community for discussion of many quantum computing topics.
+- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/)
+- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/)
 
 **Other**
 
-- [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) - D-Wave System's Leap Community Forum. 
-- [Qiskit Events](https://qiskit.org/events) - IBM Q Community page with list of upcoming events.
-- [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - Discussion forum for quantum machine learning, both using simulations and on near term hardware.
-- [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
-- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion.
-- [Q# Community](https://qsharp.community) - Community contributed libraries, projects, and demos for the Q# language.
+- [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) 
+- [Qiskit Events](https://qiskit.org/events)
+- [Pennylane Discussion Forum](https://discuss.pennylane.ai/)
+- [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/)
+- [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/)
+- [Q# Community](https://qsharp.community)
 
 
 
-## Lot more resources will be updated soon
+## Lot more resources to be updated soon...
 
 
 # Happy Learning!
