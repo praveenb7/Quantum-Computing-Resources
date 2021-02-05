@@ -73,6 +73,22 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [The Quantum Around You - With Andrea Morello](https://www.youtube.com/watch?v=Od3Ol98VvrE&list=PL50XnIfJxPDV3h3Rv3yPAbPPmbZOB7IGz)
 
 
+
+## Quantum Computing Books
+
+- [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/)
+- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook)
+- [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y)
+- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
+- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
+- [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993)
+- [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
+- [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers)
+- [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#)
+- [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)
+- [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
+- [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213)
+
 ## Quantum Computing Tools
 
 - [Amazon Braket](https://aws.amazon.com/braket/) - Fully managed service providing a development environment to run quantum circuits on quantum simulators and computers.
@@ -100,22 +116,6 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
-
-
-## Quantum Computing Books
-
-- [Dancing with Qubits](https://www.robertsutor.com/dancing-with-qubits/)
-- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook)
-- [Classical and Quantum Computation](https://books.google.com.au/books/about/Classical_and_Quantum_Computation.html?id=TrMposZZ0MQC&redir_esc=y)
-- [Learn Quantum Computing with Python and Q#](https://www.manning.com/books/learn-quantum-computing-with-python-and-q-sharp)
-- [Quantum Computing: A Gentle Introduction](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)
-- [Quantum Computing Explained](https://www.amazon.com/Quantum-Computing-Explained-David-McMahon/dp/0470096993)
-- [Quantum Computing for Computer Scientists](https://www.amazon.com/Quantum-Computing-Computer-Scientists-Yanofsky/dp/0521879965)
-- [Quantum Computing for Java Developers](https://www.manning.com/books/quantum-computing-for-java-developers)
-- [Problems and Solutions in Quantum Computing](https://www.worldscientific.com/worldscibooks/10.1142/6077#)
-- [Programming Quantum Computers: Essential Algorithms and Code Samples](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)
-- [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf)
-- [Quantum Computing: An Applied Approach](https://www.springer.com/gp/book/9783030239213)
 
 
 ## Quantum Computing Community
