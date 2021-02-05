@@ -120,12 +120,6 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 
 ## Quantum Computing Community
 
-**Slack**
-
-- [IBM Q Qiskit Community](https://qiskit.slack.com/)
-- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/)
-- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA)
-- [Strawberry Fields Community](https://u.strawberryfields.ai/slack)
 
 **Discord**
 
@@ -135,6 +129,17 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 **Meetups**
 - [List of all qc meetup groups](https://www.meetup.com/topics/quantumcomputing/all/)
 
+**Reddit**
+- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/)
+- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/)
+
+**Slack**
+
+- [IBM Q Qiskit Community](https://qiskit.slack.com/)
+- [Quantum Computing Slack Community](https://quantum-computing.herokuapp.com/)
+- [Rigetti Community](https://join.slack.com/t/rigetti-forest/shared_invite/enQtNTUyNTE1ODg3MzE2LWExZWU5OTE4YTJhMmE2NGNjMThjOTM1MjlkYTA5ZmUxNTJlOTVmMWE0YjA3Y2M2YmQzNTZhNTBlMTYyODRjMzA)
+- [Strawberry Fields Community](https://u.strawberryfields.ai/slack)
+
 
 **Telegram**
 
@@ -142,10 +147,6 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [Quantum Computing](https://t.me/quantumcomputingBR)
 - [Quantum Universe](https://t.me/QuantumU)
 
-
-**Reddit**
-- [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/)
-- [Quantum Computing Subreddit](https://www.reddit.com/r/QuantumComputing/)
 
 **Other**
 
