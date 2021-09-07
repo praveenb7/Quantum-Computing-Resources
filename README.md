@@ -34,6 +34,7 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 
 **Videos**
 
+- [Dr Quantum Double Slit Experiment](https://youtu.be/NvzSLByrw4Q)
 - [Schrödinger's cat experiment - Understanding superposition](https://www.youtube.com/watch?v=UjaAxUO6-Uw)
 - [What does Schrödinger's Cat explain to us?](https://www.youtube.com/watch?v=67MG6_N0msg)
 - [Quantum Entanglemnt - 'Spooky action at a distance'](https://www.youtube.com/watch?v=z1GCnycbMeA)
@@ -66,6 +67,8 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 **Playlists**
 
 - [Coding with Qiskit](https://www.youtube.com/watch?v=a1NZC5rqQD8&list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY)
+- [Coding with Qiskit 2](https://www.youtube.com/watch?v=R9FjVUIZeY8&list=PLOFEBzvs-VvrhKYASly1BXo1AdPyoCsor)
+- [Intoduction to Quantum Computing](https://www.youtube.com/watch?v=Rs2TzarBX5I&list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
 - [Quantum Mechanics & Quantum Computation - Umesh Vazirani - Coursera 2012](https://www.youtube.com/watch?v=VPsl_5RQe1A&list=PLnhoxwUZN7-6hB2iWNhLrakuODLaxPTOG)
 - [Quantum Computer Programming w/ Qiskit](https://www.youtube.com/watch?v=aPCZcv-5qfA&list=PLQVvvaa0QuDc79w6NcGB0pnoJBgaKdfrW)
 - [TensorFlow QuantumCasts](https://www.youtube.com/watch?v=hpHfzYTOMGI&list=PLQY2H8rRoyvwcpm6Nf-fL4sIYQUXtq3HR)
