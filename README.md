@@ -119,7 +119,7 @@ It is a field that will revolutionise the world. Quantum compuing can be used fo
 - [Q#](https://docs.microsoft.com/en-gb/quantum/?view=qsharp-preview) - Microsoft quantum development kit and Q# programming language.
 - [TensorFlow Quantum](https://www.tensorflow.org/quantum) - A quantum machine learning library that integrates Cirq with TensorFlow for prototyping of hybrid quantum-classical models for classical or quantum data.
 - [Tequila](https://github.com/aspuru-guzik-group/tequila) - An Extensible Quantum Information and Learning Architecture developed by Alan Aspuru-Guzik group (University of Toronto).
-
+- [Quriust](https://github.com/ScipioneParmigiano/quriust) - A blazing fast quantum circuit simulator written in Rust. Only for quriust ones. 
 
 ## Quantum Computing Community
 
